@@ -4,9 +4,9 @@ title: SSMLink Privacy Policy
 
 # SSMLink Privacy Policy
 
-*Last updated: October 15, 2026*
+*Last updated: October 21, 2026*
 
-SSMLink is an iPhone and iPad app that reads diagnostic data from 1990s Subaru engine control
+SSMLink is an iPhone, iPad and Android app that reads diagnostic data from 1990s Subaru engine control
 units through a Bluetooth adapter. This policy explains what the app does with your information.
 The short version: **SSMLink doesn't collect, store on any server, or share any personal data.**
 
@@ -24,6 +24,11 @@ The short version: **SSMLink doesn't collect, store on any server, or share any 
 SSMLink uses Bluetooth only to connect to the SSMLink adapter plugged into your car's
 diagnostic connector. It doesn't use Bluetooth to locate you or to find other devices for any
 other purpose.
+
+On Android 8 to 11, the system requires the location permission before an app may scan for
+Bluetooth Low Energy devices. SSMLink asks for it only for that reason: it never reads,
+stores or sends your location. On Android 12 and later it uses the Nearby devices
+permission, marked as never used for location.
 
 ## What we don't do
 
@@ -49,4 +54,4 @@ If this policy changes, the new version will be posted at this address with a ne
 
 Questions about this policy: **nickma@gmail.com**
 
-SSMLink is published on the App Store by Maria Eva Maiorsky.
+SSMLink is published on the App Store by Maria Eva Maiorsky and on Google Play by its developer, Nick Maiorsky.
